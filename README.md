@@ -4,7 +4,7 @@
 **Elibert1/Elibert1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-elibert-0418b2174)](https://www.linkedin.com/in/christopher-elibert-0418b2174) [![Github Badge](https://img.shields.io/badge/-Elibert1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Elibert1/)](https://www.github.com/Elibert1/)
+[![Linkedin Badge] (https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
