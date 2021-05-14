@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Chris! 🦦
 
 **Get in touch:**
-[![Linkedin Badge] (https://img.shields.io/badge/-christopher-elibert-0418b21740-072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-elibert-0418b2174/)] (https://www.linkedin.com/in/christopher-elibert-0418b2174>) [![Github Badge](https://img.shields.io/badge/-Elibert1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Elibert1/)](https://www.github.com/Elibert1/)
+[![Linkedin Badge] (https://img.shields.io/badge/-christopher-elibert-0418b21740 style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-elibert-0418b2174/)] (https://www.linkedin.com/in/christopher-elibert-0418b2174>) [![Github Badge](https://img.shields.io/badge/-Elibert1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Elibert1/)](https://www.github.com/Elibert1/)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
